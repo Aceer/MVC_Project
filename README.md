@@ -4,7 +4,7 @@ Projektet är skapat som ett Stackoverflow där man kan ställa frågot och besv
 I denna mappen finns allt förutom allt tabellerna för databasen och just denna sidan använder ganska mycket olika databas procedurer mm.
 
 Snabb introduktion till vilka filer som är bra att känna till:
-* ...MVC/Anax-MVC-master/webroot/projekt
+* **...MVC/Anax-MVC-master/webroot/projekt**
 *    - Här ligger projektets index sida.
 * ...MVC/Anax-MVC-master/src/Controllers
 *    - Här ligger alla kontrollers för sidan som använder URLen för att navigera mellan olika actions.   
